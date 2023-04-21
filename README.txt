@@ -1,8 +1,9 @@
 Please install the ARCADECLASSIC.TTF font from  Wester Run/assets/fonts.
 
-The game is not resizable so playing in Full Screen mode is recomanded.
+Western Run is a game inspired from the Dino browser game in which
+the main purpose is to get as far as possible, jumping over obstacles,
+without dying.
 
-The character is tricky, 
-sometimes if you spam the space bar you can make him fly, but be carefull, doing that can end your game earlier.
+The game is made with JS and PIXI.js library
 
 Enjoy and try to beat my score!
